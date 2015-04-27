@@ -6,6 +6,6 @@
     <dc:language xmlns:xsi="http://www.idpf.org/2007/opf" xsi:type="dcterms:RFC4646">en</dc:language>
     <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2015-4-27</meta>
 </metadata>
-  <manifest><item href="libro-2-b089dbf4-58d9-4e40-b7c5-fef683cddcd5-nav.html" id="libro-2-b089dbf4-58d9-4e40-b7c5-fef683cddcd5-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-83c1858f-8d4e-47e9-bb47-e1ba11a0644d.html" id="module1-83c1858f-8d4e-47e9-bb47-e1ba11a0644d.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
-  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-83c1858f-8d4e-47e9-bb47-e1ba11a0644d.html"></itemref></spine>
+  <manifest><item href="libro-2-b089dbf4-58d9-4e40-b7c5-fef683cddcd5-nav.html" id="libro-2-b089dbf4-58d9-4e40-b7c5-fef683cddcd5-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-83c1858f-8d4e-47e9-bb47-e1ba11a0644d.html" id="module1-83c1858f-8d4e-47e9-bb47-e1ba11a0644d.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="asdfasdf-5d357e19-eb30-4f61-af60-776b5f085397.html" id="asdfasdf-5d357e19-eb30-4f61-af60-776b5f085397.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="asdfasdf-5d357e19-eb30-4f61-af60-776b5f085397.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-83c1858f-8d4e-47e9-bb47-e1ba11a0644d.html"></itemref></spine>
 </package>
