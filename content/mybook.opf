@@ -2,10 +2,18 @@
   <metadata>
     <dc:rights>Public domain</dc:rights>
     <dc:creator opf:file-as="Unknown, Author">Unknown Author</dc:creator>
-    <dc:title>My Untitled Book</dc:title>
+    <dc:title>libro miguel</dc:title>
     <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
     <dc:date opf:event="publication">2013-10-08</dc:date>
-  </metadata>
+      <dc:description>es un libro muy bonito</dc:description>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:property="lrmi:useRightsUrl">other</meta>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2015-4-27</meta>
+    <dc:subject xmlns="http://www.w3.org/1999/xhtml">asdf</dc:subject>
+    <dc:subject xmlns="http://www.w3.org/1999/xhtml"> adf</dc:subject>
+    <dc:subject xmlns="http://www.w3.org/1999/xhtml">l asdfl</dc:subject>
+    <dc:creator id="author-1" opf:file-as="miguel">miguel</dc:creator>
+    <meta xmlns="http://www.w3.org/1999/xhtml" refines="#author-1" property="role" scheme="marc:relators">aut</meta>
+</metadata>
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
