@@ -3,6 +3,12 @@
     <dc:identifier id="uid">laura-38dbb170-f7d6-4c57-9727-ac7a3c0cad6c</dc:identifier>
     <dc:title>laura</dc:title>
       <date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="publication">2015-4-28</date>
+    <dc:description>asdf adsf</dc:description>
+    <dc:language xmlns:xsi="http://www.idpf.org/2007/opf" xsi:type="dcterms:RFC4646">ca</dc:language>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:property="lrmi:useRightsUrl">other</meta>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2015-4-28</meta>
+    <dc:subject xmlns="http://www.w3.org/1999/xhtml">´kasdfa</dc:subject>
+    <dc:subject xmlns="http://www.w3.org/1999/xhtml"> asdf</dc:subject>
 </metadata>
   <manifest><item href="laura-f6a11bc3-68fb-445d-a688-cb9bfcce002d-nav.html" id="laura-f6a11bc3-68fb-445d-a688-cb9bfcce002d-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-e7295948-62b0-416e-992f-779f0c00b96c.html" id="module1-e7295948-62b0-416e-992f-779f0c00b96c.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-e7295948-62b0-416e-992f-779f0c00b96c.html"></itemref></spine>
